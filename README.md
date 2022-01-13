@@ -8,7 +8,7 @@ Picobot is a program created by Harvey Mudd College. Its goal is to completely t
 A Picobot program is simply a list of rules of the form `0 xxxx -> N 0` ,  every rule follows this pattern of `startingState   NEWSsurroundings   ->  moveDirection   nextState
 `
 
-The Picobot program can be found here: https://www.cs.hmc.edu/picobot/
+The Picobot program can be found [here](https://www.cs.hmc.edu/picobot/).
 
 
 ## How does this AI work?
