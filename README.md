@@ -3,7 +3,7 @@
 This Python program will automatically evolve better Picobot programs with artificial intelligence using a genetic algorithm.
  
 ## What is Picobot?
-Picobot is program created by Harvey Mudd College. Its goal is to completely traverse its environment. Picobot starts at a random location in a room. The walls of the room are blue, picobot is green, and the empty room is white. Every time Picobot takes a step, it leaves a gray trail.
+Picobot is a program created by Harvey Mudd College. Its goal is to completely traverse its environment. Picobot starts at a random location in a room. The walls of the room are blue, picobot is green, and the empty room is white. Every time Picobot takes a step, it leaves a gray trail.
 
 A Picobot program is simply a list of rules of the form `0 xxxx -> N 0` ,  every rule follows this pattern of `startingState   NEWSsurroundings   ->  moveDirection   nextState
 `
